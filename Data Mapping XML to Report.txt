@@ -1,0 +1,10 @@
+/Tables/Table[1]/Cell[1]/Cell[2]/Cell[1],1001
+/Tables/Table[1]/Cell[1]/Cell[2]/Cell[2],1002
+/Tables/Table[1]/Cell[1]/Cell[2]/Cell[3],1003
+/Tables/Table[1]/Cell[1]/Cell[3]/Cell[1],1004
+/Tables/Table[1]/Cell[1]/Cell[3]/Cell[2],1005
+/Tables/Table[1]/Cell[1]/Cell[3]/Cell[3],1006
+/Tables/Table[2]/Cell[1]/Cell[2]/Cell[1],1101
+/Tables/Table[2]/Cell[1]/Cell[2]/Cell[2],1102
+/Tables/Table[2]/Cell[1]/Cell[3]/Cell[1],1103
+/Tables/Table[2]/Cell[1]/Cell[3]/Cell[2],1104
